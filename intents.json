@@ -1,0 +1,15 @@
+
+{
+  "data": [
+    {
+      "intent": "greet",
+      "query": ["Hi", "Hello"],
+      "responses": ["Hi there!"]
+    },
+    {
+      "intent": "schedule",
+      "query": ["When are you open?"],
+      "responses": ["We are open from 2pm to 10pm"]
+    }
+  ]
+}
